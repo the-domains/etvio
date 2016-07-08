@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#8D9796'
+    - '#B8C2C3'
+    - '#150000'
+    - '#535C59'
+    - '#2E2212'
+  brandStrength: 1
+  lightness: 0.588104
+  rhythmicContrast: 0.534162
+  saturation: 0.982072
+layout_spectrum: 0.968468
+name: 'ETVIO '
+typography_spectrum: 0.097973
